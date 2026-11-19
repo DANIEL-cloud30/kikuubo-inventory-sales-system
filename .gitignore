@@ -1,0 +1,20 @@
+# Temporary files
+*.log
+*.tmp
+
+# Environment and private configuration
+.env
+.env.*
+!.env.example
+
+# Database backups
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+
+/includes/db.php
